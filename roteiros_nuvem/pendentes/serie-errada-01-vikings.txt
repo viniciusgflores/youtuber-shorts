@@ -1,0 +1,13 @@
+titulo: Tudo que te contaram sobre os Vikings é mentira #1
+descricao: Capacete com chifres? Selvagens sem lei? Quase tudo que você aprendeu sobre os Vikings foi inventado séculos depois. Série "História que te ensinaram errado" — segue pra não perder os próximos. ⚔️
+hashtags: historia, vikings, curiosidades, historiamundial, mitos, teensinaramerrado, nordicos, reflexao, aprender, cultura
+voz: Antonio
+cenas:
+[viking ship ocean] Esquece o capacete com chifres. Os Vikings nunca usaram isso.
+[opera theater stage] Essa imagem foi inventada numa ópera do século dezenove.
+[viking ship sailing] Os Vikings de verdade eram comerciantes e exploradores.
+[old world map] Eles chegaram à América quinhentos anos antes de Colombo.
+[nordic fjord landscape] Tinham leis, poesia e cuidavam mais da higiene que muita gente da época.
+[old manuscript book] O apelido de bárbaros veio justamente de quem eles atacavam.
+[ancient book pages] Quem escreve a história decide quem vira o vilão.
+[person thinking] Quantas outras verdades você nunca parou pra questionar?

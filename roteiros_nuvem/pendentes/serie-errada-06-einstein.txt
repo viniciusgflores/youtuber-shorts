@@ -1,0 +1,13 @@
+titulo: Einstein nunca foi reprovado em matemática #6
+descricao: A história mais repetida pra "consolar" estudante é pura lenda. Einstein dominava cálculo ainda adolescente. De onde veio essa fake news? Série "História que te ensinaram errado". 🧠
+hashtags: historia, einstein, ciencia, curiosidades, historiamundial, mitos, teensinaramerrado, fisica, aprender, escola
+voz: Antonio
+cenas:
+[blackboard equations math] Você já ouviu que Einstein foi reprovado em matemática.
+[vintage classroom desk] É mentira. Ele era excelente em matemática desde criança.
+[physics chalkboard formula] Aos quinze anos já dominava cálculo avançado.
+[old school building] A confusão veio de uma mudança no sistema de notas da escola dele.
+[old newspaper vintage] Uma reportagem antiga interpretou errado e a lenda pegou.
+[blackboard equations math] Vira e mexe ela volta pra "consolar" quem vai mal na prova.
+[person studying book] Sentir-se melhor é bom. Mas com a verdade é melhor ainda.
+[person thinking] Que outra "história inspiradora" será que é inventada?

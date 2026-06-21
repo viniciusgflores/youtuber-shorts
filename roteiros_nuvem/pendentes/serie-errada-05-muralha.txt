@@ -1,0 +1,13 @@
+titulo: Não, a Muralha da China não é vista do espaço #5
+descricao: Esse "fato" está em livro escolar, mas é falso — e foi desmentido por astronautas. A história de como essa lenda nasceu é o mais curioso. Série "História que te ensinaram errado". 🛰️
+hashtags: historia, muralhadachina, china, curiosidades, historiamundial, mitos, teensinaramerrado, espaco, aprender, ciencia
+voz: Antonio
+cenas:
+[great wall of china] Te disseram que a Muralha da China é vista do espaço a olho nu.
+[earth from space] Isso é falso. Astronautas já confirmaram que não dá.
+[satellite earth orbit] Ela é comprida, mas estreita demais pra enxergar de tão longe.
+[astronaut space station] A lenda apareceu décadas antes de alguém sequer ir ao espaço.
+[old book pages] Foi repetida em livros até virar verdade absoluta.
+[great wall of china] Curioso: estradas e aeroportos são mais visíveis que ela.
+[earth from space] Um mito pode atravessar gerações sem ninguém checar.
+[person thinking] Quantos "fatos" da escola você nunca confirmou?

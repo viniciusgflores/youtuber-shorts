@@ -1,0 +1,13 @@
+titulo: Colombo não provou que a Terra é redonda #10
+descricao: A escola te vendeu um herói corajoso contra os que achavam a Terra plana. Quase nada disso aconteceu. A história real é bem menos heroica. Série "História que te ensinaram errado". 🌍
+hashtags: historia, colombo, descobrimento, curiosidades, historiamundial, mitos, teensinaramerrado, navegacao, aprender, cultura
+voz: Antonio
+cenas:
+[old sailing ship ocean] Te contaram que Colombo provou que a Terra é redonda. Falso.
+[antique globe vintage] Que a Terra é redonda já se sabia desde a Grécia antiga.
+[vintage world map] Os sábios da época não duvidavam disso de jeito nenhum.
+[ocean waves dramatic] O que eles duvidavam era do tamanho do planeta. E estavam certos.
+[old map navigation] Colombo errou feio a conta: achou o mundo bem menor.
+[ocean horizon sunset] Ele teve sorte de esbarrar num continente inteiro no caminho.
+[old sailing ship ocean] E morreu achando que tinha chegado na Ásia.
+[person thinking] Quantos "heróis" da história foram só sortudos bem contados?

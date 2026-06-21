@@ -1,0 +1,13 @@
+titulo: As pirâmides NÃO foram construídas por escravos #7
+descricao: O filme te vendeu uma cena que nunca aconteceu. As provas arqueológicas contam outra história sobre quem ergueu as pirâmides. Série "História que te ensinaram errado". 🏗️
+hashtags: historia, piramides, egito, curiosidades, historiamundial, mitos, teensinaramerrado, arqueologia, aprender, cultura
+voz: Antonio
+cenas:
+[giza pyramids egypt] Você imagina escravos sofrendo pra erguer as pirâmides.
+[ancient stone construction] A arqueologia mostra que isso provavelmente não é verdade.
+[egyptian hieroglyphs wall] Foram trabalhadores egípcios, organizados e remunerados.
+[desert egypt workers] Eles tinham casas, comida farta e até atendimento médico.
+[ancient egypt tomb] Perto das pirâmides, acharam túmulos honrados desses operários.
+[giza pyramids egypt] Escravo não ganha túmulo de honra ao lado do faraó.
+[egyptian temple columns] A imagem do chicote veio mais do cinema que da história.
+[person thinking] Quanto do passado a gente aprendeu pela tela do cinema?

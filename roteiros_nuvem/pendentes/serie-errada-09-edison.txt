@@ -1,0 +1,13 @@
+titulo: Edison não inventou a lâmpada #9
+descricao: O nome ficou famoso, mas a invenção já existia antes dele. O que Edison fez de verdade foi outra coisa — e mexe com como a gente trata "gênios". Série "História que te ensinaram errado". 💡
+hashtags: historia, edison, invencao, curiosidades, historiamundial, mitos, teensinaramerrado, tecnologia, aprender, ciencia
+voz: Antonio
+cenas:
+[light bulb glowing] Te ensinaram que Thomas Edison inventou a lâmpada. Não inventou.
+[vintage light bulb] Vários inventores já tinham criado lâmpadas antes dele.
+[old laboratory equipment] O que Edison fez foi melhorar e tornar ela durável e barata.
+[electricity sparks] E, principalmente, criar o sistema pra levar luz às cidades.
+[vintage factory] Ele também era um gênio do marketing e das patentes.
+[light bulb glowing] Por isso o nome dele ficou, e os outros sumiram da história.
+[crowd people city] Quem comunica melhor costuma levar o crédito sozinho.
+[person thinking] Quantas invenções têm o "dono" errado nos livros?

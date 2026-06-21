@@ -1,0 +1,13 @@
+titulo: Cleópatra não era egípcia (sério) #4
+descricao: A rainha mais famosa do Egito não tinha sangue egípcio. Ela era de uma dinastia grega e falava várias línguas. O que te contaram sobre ela é quase tudo lenda. Série "História que te ensinaram errado". 🏺
+hashtags: historia, cleopatra, egito, curiosidades, historiamundial, mitos, teensinaramerrado, reflexao, aprender, cultura
+voz: Antonio
+cenas:
+[egypt pyramids giza] Cleópatra é o símbolo do Egito antigo. Mas tem um problema.
+[ancient egyptian statue] Ela não era egípcia de sangue. Era grega.
+[greek marble statue] Vinha da dinastia ptolomaica, fundada por um general de Alexandre.
+[ancient egypt temple] Mesmo assim, foi a única da família que aprendeu a língua egípcia.
+[old map mediterranean] Ela falava quase uma dezena de idiomas e era brilhante na política.
+[egyptian hieroglyphs wall] A fama de só "sedutora" foi invenção dos inimigos romanos.
+[ancient ruins sunset] Apagaram a estrategista e deixaram só a lenda.
+[person thinking] Quantas mulheres da história foram reduzidas a um clichê?

@@ -1,0 +1,13 @@
+titulo: A "Idade das Trevas" é uma grande mentira #8
+descricao: Mil anos de atraso e ignorância? Não foi bem assim. A Idade Média inventou coisas que você usa até hoje. Quem criou esse apelido tinha um motivo. Série "História que te ensinaram errado". 🏰
+hashtags: historia, idademedia, curiosidades, historiamundial, mitos, teensinaramerrado, medieval, reflexao, aprender, cultura
+voz: Antonio
+cenas:
+[medieval castle] Chamam a Idade Média de "idade das trevas". É injusto.
+[medieval town street] Foi nela que surgiram as universidades e os hospitais.
+[old library books] Monges preservaram boa parte do conhecimento antigo.
+[cathedral interior] Catedrais góticas eram proezas de engenharia avançada.
+[knight armor medieval] Inventaram óculos, relógio mecânico e até a contabilidade moderna.
+[old manuscript book] O apelido "trevas" veio de pensadores que queriam se sentir superiores.
+[medieval castle fog] Diminuir o passado é uma forma de se promover no presente.
+[person thinking] Quem ganha quando uma época inteira é pintada como burra?

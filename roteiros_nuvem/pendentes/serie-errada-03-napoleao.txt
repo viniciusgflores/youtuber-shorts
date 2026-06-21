@@ -1,0 +1,13 @@
+titulo: Napoleão não era baixo — você foi enganado #3
+descricao: O "complexo de Napoleão" é baseado numa mentira. Ele tinha altura normal pra época. A fama de baixinho foi propaganda inimiga que virou verdade. Série "História que te ensinaram errado". 👑
+hashtags: historia, napoleao, franca, curiosidades, historiamundial, mitos, teensinaramerrado, reflexao, aprender, cultura
+voz: Antonio
+cenas:
+[vintage portrait painting] Você cresceu achando que Napoleão era um homem baixinho.
+[historical painting battle] Mentira. Ele tinha mais ou menos um metro e setenta.
+[old military uniform] Isso era altura normal, ou até acima da média, na época dele.
+[antique book history] A fama de baixo veio de uma confusão entre medidas francesas e inglesas.
+[old newspaper vintage] E a propaganda inimiga adorou exagerar a piada.
+[vintage portrait painting] Repetiram tanto que virou "fato" nos livros.
+[crowd people] Uma mentira repetida o suficiente vira história oficial.
+[person thinking] Que outro "fato" famoso você nunca conferiu de verdade?

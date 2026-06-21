@@ -1,0 +1,13 @@
+titulo: A maior mentira sobre os gladiadores romanos #2
+descricao: Polegar pra baixo significava morte? Os gladiadores lutavam até morrer toda vez? O cinema te enganou. A realidade era bem diferente — e mais interessante. Série "História que te ensinaram errado". 🏛️
+hashtags: historia, gladiadores, romaantiga, curiosidades, historiamundial, mitos, teensinaramerrado, reflexao, aprender, cultura
+voz: Antonio
+cenas:
+[roman colosseum] Você acha que gladiador morria em toda luta. Errado.
+[gladiator arena] Treinar um gladiador custava caro demais pra desperdiçar.
+[roman soldier armor] A maioria das lutas terminava sem nenhuma morte.
+[ancient roman ruins] Eles eram atletas famosos, tipo astros de futebol hoje.
+[marble statue roman] Tinham fãs, marcas de produtos e até grafites com seus nomes.
+[colosseum interior] E o polegar pra baixo? Provavelmente nem significava matar.
+[roman statue] O cinema criou quase tudo que você imagina sobre a arena.
+[person thinking] O que mais Hollywood te ensinou errado sobre a história?
