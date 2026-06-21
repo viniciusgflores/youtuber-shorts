@@ -4,7 +4,7 @@ hashtags: historia, vikings, curiosidades, historiamundial, mitos, teensinaramer
 voz: Antonio
 cenas:
 [viking ship ocean] Esquece o capacete com chifres. Os Vikings nunca usaram isso.
-[opera theater stage] Essa imagem foi inventada numa ópera do século dezenove.
+[opera theater stage] Essa imagem foi inventada numa ópera do século XIX.
 [viking ship sailing] Os Vikings de verdade eram comerciantes e exploradores.
 [old world map] Eles chegaram à América quinhentos anos antes de Colombo.
 [nordic fjord landscape] Tinham leis, poesia e cuidavam mais da higiene que muita gente da época.

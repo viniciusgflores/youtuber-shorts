@@ -32,6 +32,16 @@ roteiro (.txt)  →  python gerar_*.py  →  videos/*.mp4  →  python upload.py
 2. Gere: `python gerar_invideo.py`
 3. Publique: `python upload.py`
 
+### Convenções de roteiro
+
+- **Séculos sempre em algarismos romanos** (ex.: `século XIV`, `Século XIX`),
+  nunca por extenso. A legenda exibe o romano; o gerador converte para extenso
+  só na narração (a voz lê "século catorze"), então áudio e legenda ficam
+  corretos. Use só para século específico — "por séculos" (genérico) permanece.
+- **Título e descrição diferentes da narração** — são a isca de cliques, não a
+  transcrição. A narração (em `cenas:`) é o conteúdo.
+- **Palavra-chave da cena em inglês e específica** (ex.: `giza pyramids egypt`).
+
 ## Setup (chaves necessárias — NÃO versionadas)
 
 Veja o passo a passo completo em **`LEIA-ME.md`**. Em resumo, na pasta do

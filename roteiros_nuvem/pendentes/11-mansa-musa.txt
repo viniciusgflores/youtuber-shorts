@@ -5,7 +5,7 @@ voz: Antonio
 cenas:
 [desert caravan camels] O homem mais rico da história não foi europeu.
 [gold coins treasure] Foi Mansa Musa, rei do Império do Mali.
-[desert camels sand] No século catorze, ele controlava o ouro do mundo.
+[desert camels sand] No século XIV, ele controlava o ouro do mundo.
 [gold dust shining] Sua fortuna era tão grande que beira o incalculável.
 [ancient african architecture] O Mali tinha cidades, universidades e bibliotecas.
 [old manuscript arabic] Timbuktu era um centro mundial de conhecimento.

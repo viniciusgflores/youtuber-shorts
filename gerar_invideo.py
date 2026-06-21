@@ -199,6 +199,25 @@ def blocos_de(texto, n=PALAVRAS_POR_BLOCO):
     return blocos or [texto]
 
 
+# Séculos: o roteiro escreve em NUMERO ROMANO (a legenda mostra "SÉCULO XIV").
+# Para a narração (TTS), convertemos para extenso senão a voz lê as letras erradas.
+SECULOS_FALADOS = {
+    "I": "primeiro", "II": "segundo", "III": "terceiro", "IV": "quarto",
+    "V": "quinto", "VI": "sexto", "VII": "sétimo", "VIII": "oitavo",
+    "IX": "nono", "X": "décimo", "XI": "onze", "XII": "doze", "XIII": "treze",
+    "XIV": "catorze", "XV": "quinze", "XVI": "dezesseis", "XVII": "dezessete",
+    "XVIII": "dezoito", "XIX": "dezenove", "XX": "vinte", "XXI": "vinte e um",
+}
+
+
+def falar_seculos(texto):
+    """Converte 'século XIV' -> 'século catorze' APENAS para a narração (TTS).
+    As legendas continuam mostrando o número romano (texto original)."""
+    def repl(m):
+        return f"{m.group(1)} {SECULOS_FALADOS.get(m.group(2).upper(), m.group(2))}"
+    return re.sub(r"\b(s[ée]culos?)\s+([IVXLC]+)\b", repl, texto, flags=re.IGNORECASE)
+
+
 def gerar_scrim(path):
     """Degrade transparente->escuro na metade inferior (legibilidade + profundidade)."""
     col = Image.new("RGBA", (1, H), (0, 0, 0, 0))
@@ -227,7 +246,7 @@ def processar_roteiro(arquivo, chave, tmp):
         print(f"  Cena {idx+1}/{len(meta['cenas'])}: [{cena['kw']}]")
         # 1) narracao
         a_mp3 = tmp / f"a{idx}.mp3"
-        asyncio.run(tts(cena["texto"], meta["voz"], a_mp3))
+        asyncio.run(tts(falar_seculos(cena["texto"]), meta["voz"], a_mp3))
         dur = duracao(a_mp3) + 0.3  # pequena folga
         audios.append(a_mp3)
 
