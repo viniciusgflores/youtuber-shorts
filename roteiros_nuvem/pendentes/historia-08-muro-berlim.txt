@@ -1,0 +1,15 @@
+titulo: O erro de fala que derrubou o Muro de Berlim
+descricao: A maior fronteira da Guerra Fria não caiu por uma batalha. Caiu por causa de uma única frase mal dita numa entrevista. A história real é quase absurda. 🧱
+hashtags: historia, murodeberlim, guerrafria, alemanha, curiosidades, historiamundial, politica, reflexao, aprender, mundo
+voz: Antonio
+cenas:
+[berlin germany city] Por vinte e oito anos, um muro dividiu Berlim.
+[concrete wall graffiti] De um lado, o comunismo. Do outro, o capitalismo.
+[old vintage television] Em 1989, um porta-voz leu uma nova regra de viagem.
+[microphone press conference] Um jornalista perguntou: a partir de quando?
+[man speaking nervous] Sem saber direito, ele respondeu: imediatamente.
+[crowd people night] Milhares correram para a fronteira na mesma hora.
+[crowd celebration street] Os guardas, sem ordem clara, abriram os portões.
+[fireworks celebration sky] O muro caiu por um mal-entendido, não por guerra.
+[city lights night] Às vezes a história inteira vira numa frase.
+[person thinking] Quantos grandes momentos foram puro acaso?

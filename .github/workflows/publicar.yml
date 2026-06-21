@@ -1,0 +1,81 @@
+name: Publicar Short diario
+
+# Roda na nuvem do GitHub (sem PC ligado). 1 Short por execucao.
+on:
+  schedule:
+    - cron: "0 12 * * *"   # 12:00 UTC = 09:00 horario de Brasilia
+  workflow_dispatch: {}     # permite rodar manualmente pelo botao "Run workflow"
+
+permissions:
+  contents: write           # pra mover o roteiro publicado e dar commit de volta
+
+concurrency:
+  group: publicar
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar o repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar fontes (Arial Black) e utilitarios
+        run: |
+          echo "ttf-mscorefonts-installer msttcorefonts/accepted-mscorefonts-eula select true" | sudo debconf-set-selections
+          sudo apt-get update -y
+          sudo apt-get install -y fontconfig fonts-liberation
+          sudo apt-get install -y ttf-mscorefonts-installer || echo "mscorefonts falhou; usando fallback"
+          sudo fc-cache -f
+
+      - name: Instalar dependencias Python
+        run: |
+          python -m pip install --upgrade pip
+          pip install edge-tts imageio-ffmpeg Pillow google-api-python-client google-auth-oauthlib google-auth-httplib2
+
+      - name: Escrever segredos (a partir dos GitHub Secrets)
+        env:
+          PEXELS_KEY: ${{ secrets.PEXELS_KEY }}
+          CLIENT_SECRET_JSON: ${{ secrets.CLIENT_SECRET_JSON }}
+          TOKEN_JSON: ${{ secrets.TOKEN_JSON }}
+        run: |
+          printf '%s' "$PEXELS_KEY" > pexels_key.txt
+          printf '%s' "$CLIENT_SECRET_JSON" > client_secret.json
+          printf '%s' "$TOKEN_JSON" > token.json
+
+      - name: Selecionar e gerar o proximo roteiro
+        id: gen
+        run: |
+          mkdir -p roteiros_nuvem/pendentes roteiros_nuvem/publicados roteiros_invideo videos
+          PROX=$(ls roteiros_nuvem/pendentes/*.txt 2>/dev/null | sort | head -1)
+          if [ -z "$PROX" ]; then
+            echo "Sem roteiros pendentes em roteiros_nuvem/pendentes/. Nada a fazer."
+            echo "vazio=1" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          NOME=$(basename "$PROX")
+          echo "Proximo roteiro: $NOME"
+          cp "$PROX" "roteiros_invideo/$NOME"
+          python gerar_invideo.py "$NOME"
+          echo "nome=$NOME" >> "$GITHUB_OUTPUT"
+
+      - name: Publicar no YouTube
+        if: steps.gen.outputs.vazio != '1'
+        env:
+          YT_NONINTERACTIVE: "1"
+        run: python upload.py
+
+      - name: Marcar roteiro como publicado (commit de volta)
+        if: steps.gen.outputs.vazio != '1'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git mv "roteiros_nuvem/pendentes/${{ steps.gen.outputs.nome }}" "roteiros_nuvem/publicados/${{ steps.gen.outputs.nome }}"
+          git add -A
+          git commit -m "Publicado na nuvem: ${{ steps.gen.outputs.nome }} [skip ci]" || echo "nada a commitar"
+          git push

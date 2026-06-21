@@ -1,0 +1,16 @@
+titulo: Como uma praga acidentalmente libertou a Europa
+descricao: A Peste Negra matou um terço da Europa — e, por um motivo cruel, isso acabou mudando o mundo pra melhor pra quem sobreviveu. A escola não conta assim. 💀
+hashtags: historia, pestenegra, idademedia, europa, curiosidades, historiamundial, economia, reflexao, aprender, sociedade
+voz: Antonio
+cenas:
+[medieval castle fog] No século catorze, a Peste Negra varreu a Europa.
+[dark candle smoke] Em poucos anos, um terço das pessoas morreu.
+[old manuscript book] Foi a maior catástrofe da história europeia.
+[medieval village] Mas algo estranho aconteceu com quem sobreviveu.
+[gold coins counting] De repente, havia trabalho demais e gente de menos.
+[farmer field work] Os trabalhadores puderam exigir salários melhores.
+[old chain rusty] O feudalismo, que prendia o camponês à terra, rachou.
+[cathedral interior] Até a fé absoluta na Igreja começou a ser questionada.
+[sunrise over field] Da maior tragédia nasceu o início do mundo moderno.
+[hourglass sand] Às vezes, o colapso também é um recomeço.
+[person thinking] O que mais a gente chama de fim, mas era começo?

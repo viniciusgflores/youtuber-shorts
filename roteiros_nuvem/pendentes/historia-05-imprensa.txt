@@ -1,0 +1,15 @@
+titulo: A invenção que tirou o poder da instituição mais forte do mundo
+descricao: Antes dela, a informação era controlada por pouquíssimos. Uma máquina mudou isso pra sempre — e nada voltou a ser igual. Te lembra alguma coisa de hoje? 📖
+hashtags: historia, imprensa, gutenberg, tecnologia, curiosidades, historiamundial, informacao, reflexao, aprender, comunicacao
+voz: Antonio
+cenas:
+[old book pages turning] Por mil anos, copiar um livro levava meses.
+[candle manuscript writing] Cada cópia era feita à mão, uma por uma.
+[cathedral interior dark] A Igreja controlava quase todo o conhecimento.
+[old book vintage] Aí, por volta de 1450, surgiu a imprensa de Gutenberg.
+[stack of old books] De repente, livros podiam ser feitos aos milhares.
+[open bible book] Textos sagrados chegaram às mãos do povo comum.
+[crowd people gathering] Ideias proibidas se espalharam sem controle.
+[fire flames burning] A Reforma Protestante incendiou a Europa.
+[smartphone screen night] Toda vez que a informação se liberta, o poder treme.
+[person thinking] Que máquina está fazendo isso com a gente agora?

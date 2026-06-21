@@ -1,0 +1,15 @@
+titulo: Como um sistema mal feito matou 17 milhões de pessoas
+descricao: A Primeira Guerra não começou por ódio. Começou por um emaranhado de acordos automáticos que ninguém conseguiu parar. Um alerta que ecoa até hoje. ⚠️
+hashtags: historia, primeiraguerra, guerra, mundial, curiosidades, historiamundial, politica, reflexao, aprender, sociedade
+voz: Antonio
+cenas:
+[war memorial statue] A Primeira Guerra matou dezessete milhões de pessoas.
+[old vintage photo] E começou quase por acidente.
+[dominoes falling] A Europa estava presa numa teia de alianças.
+[old map europe] Se um país entrasse em guerra, todos eram arrastados.
+[vintage portrait old] Um único assassinato puxou o primeiro fio.
+[soldiers marching war] Em semanas, o continente inteiro estava em chamas.
+[foggy battlefield smoke] Ninguém queria aquela guerra naquela escala.
+[barbed wire fence] Mas o sistema tornou a catástrofe automática.
+[gears machine turning] Estruturas mal feitas decidem mais que pessoas.
+[person thinking] Que sistemas automáticos comandam o mundo hoje?

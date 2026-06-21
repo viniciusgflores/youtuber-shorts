@@ -1,0 +1,15 @@
+titulo: 3 impérios que juraram ser eternos (e viraram pó)
+descricao: Todo império no auge acha que é diferente, que vai durar pra sempre. Nenhum durou. O que isso diz sobre o nosso tempo? Comenta o que você acha. 🏛️
+hashtags: historia, imperios, civilizacao, curiosidades, historiamundial, queda, reflexao, aprender, cultura, mundo
+voz: Antonio
+cenas:
+[ancient ruins columns] Todo império no auge se acha eterno.
+[roman colosseum ruins] Roma dominou o mundo conhecido por séculos.
+[ancient roman statue] Achava-se imortal. Virou ruína e ponto turístico.
+[mongolia steppe horses] O Império Mongol foi o maior em terra contínua.
+[old world map asia] Em poucas gerações, se fragmentou e sumiu.
+[vintage flag waving] O Império Britânico dizia que o sol nunca se punha nele.
+[london old building] Hoje, é uma ilha de tamanho médio.
+[hourglass sand time] O padrão se repete em toda a história.
+[city skyline night] Nenhuma potência atual é exceção a esse ciclo.
+[person thinking] Qual império de hoje vira o próximo capítulo?

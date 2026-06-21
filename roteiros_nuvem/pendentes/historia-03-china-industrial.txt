@@ -1,0 +1,16 @@
+titulo: Por que a China perdeu a corrida que tinha tudo pra vencer
+descricao: Mil anos atrás, a China era a civilização mais avançada do planeta. Então por que a Revolução Industrial nasceu numa ilha fria e pequena? A resposta surpreende. ⚙️
+hashtags: historia, china, revolucaoindustrial, inglaterra, curiosidades, historiamundial, tecnologia, economia, reflexao, aprender
+voz: Antonio
+cenas:
+[ancient chinese temple] Há mil anos, a China era a potência do mundo.
+[chinese architecture] Tinha pólvora, bússola e imprensa antes de todo mundo.
+[old world map] Devia ter dominado a era moderna. Mas não dominou.
+[english countryside village] A Revolução Industrial nasceu na Inglaterra.
+[coal mine industrial] Uma ilha fria, pequena e cheia de carvão barato.
+[steam engine machine] Lá, mão de obra era cara, então valia inventar máquinas.
+[great wall of china] Na China, um império centralizado controlava tudo.
+[gears machine industrial] Inovação ameaçava o poder, então era contida.
+[factory smoke chimney] A vantagem não foi gênio. Foi incentivo e contexto.
+[modern technology city] Quem inova nem sempre é o mais inteligente.
+[person thinking] Às vezes é só quem está no lugar certo, na hora certa.

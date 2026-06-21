@@ -1,0 +1,15 @@
+titulo: O homem mais rico da história que sua escola ignorou
+descricao: Esqueça os bilionários de hoje. A maior fortuna que já existiu pertenceu a um rei africano que a história ocidental quase apagou. Por que será? 👑 Comenta.
+hashtags: historia, mansamusa, africa, mali, curiosidades, historiamundial, riqueza, reflexao, aprender, cultura
+voz: Antonio
+cenas:
+[desert caravan camels] O homem mais rico da história não foi europeu.
+[gold coins treasure] Foi Mansa Musa, rei do Império do Mali.
+[desert camels sand] No século catorze, ele controlava o ouro do mundo.
+[gold dust shining] Sua fortuna era tão grande que beira o incalculável.
+[ancient african architecture] O Mali tinha cidades, universidades e bibliotecas.
+[old manuscript arabic] Timbuktu era um centro mundial de conhecimento.
+[gold treasure pile] Numa viagem, ele distribuiu tanto ouro que gerou inflação.
+[old world map] Mesmo assim, quase ninguém aprende isso na escola.
+[african sunset landscape] A história que te contam tem geografia e tem cor.
+[person thinking] Quantos impérios foram apagados do seu livro?

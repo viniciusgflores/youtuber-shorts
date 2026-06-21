@@ -1,0 +1,15 @@
+titulo: O segredo de uma civilização que durou 3 mil anos
+descricao: Roma durou cerca de 500 anos. O Egito durou seis vezes mais. Mas o que deu essa estabilidade foi a mesma coisa que travou o futuro dele. Um paradoxo poderoso. 🏺
+hashtags: historia, egito, egitoantigo, civilizacao, curiosidades, historiamundial, piramides, reflexao, aprender, cultura
+voz: Antonio
+cenas:
+[giza pyramids egypt] O Egito Antigo durou quase três mil anos.
+[egyptian hieroglyphs wall] Seis vezes mais que o Império Romano.
+[sphinx giza egypt] Qual era o segredo dessa permanência?
+[nile river egypt] Tudo girava em torno do Nilo, previsível e generoso.
+[egyptian pharaoh statue] A tradição era sagrada, quase imutável.
+[egypt desert dunes] Mudar era perigoso. Repetir era seguro.
+[great pyramid giza egypt] Isso deu uma estabilidade que o mundo nunca mais viu.
+[egyptian temple karnak] Mas a mesma rigidez impediu grandes saltos.
+[hourglass sand time] Estabilidade e inovação raramente andam juntas.
+[person thinking] Você prefere durar muito ou mudar o mundo?

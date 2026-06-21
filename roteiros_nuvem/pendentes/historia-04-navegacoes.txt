@@ -1,0 +1,15 @@
+titulo: O lado das Grandes Navegações que apagaram dos livros
+descricao: Chamam de "era dos descobrimentos". Mas pra metade do mundo, foi o começo do pesadelo. Duas perspectivas da mesma história. 🌍 Comenta a sua.
+hashtags: historia, grandesnavegacoes, colonizacao, brasil, curiosidades, historiamundial, america, reflexao, aprender, sociedade
+voz: Antonio
+cenas:
+[old sailing ship ocean] Chamam de era dos grandes descobrimentos.
+[vintage compass map] Europeus cruzaram oceanos e ligaram o mundo todo.
+[ocean waves dramatic] Foi uma façanha técnica impressionante, é verdade.
+[ancient ruins jungle] Mas pra quem já vivia aqui, foi outra história.
+[dark forest fog] Povos inteiros foram dizimados por guerra e doença.
+[gold treasure coins] O ouro das Américas financiou a riqueza europeia.
+[rusty old chains metal] E alimentou o maior comércio de escravos da história.
+[old map sailing ship] A mesma viagem foi glória pra uns e tragédia pra outros.
+[ocean horizon sunset] A história não tem um lado só. Tem quem a conta.
+[person thinking] De que lado estava quem ensinou a sua versão?

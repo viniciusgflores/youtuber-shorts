@@ -77,6 +77,11 @@ def autenticar():
         if creds and creds.expired and creds.refresh_token:
             creds.refresh(google.auth.transport.requests.Request())
         else:
+            if os.environ.get("YT_NONINTERACTIVE"):
+                log("ERRO: token.json invalido/expirado e modo nao-interativo (nuvem). "
+                    "Gere um token.json novo localmente e atualize o secret TOKEN_JSON. "
+                    "Dica: publique o app OAuth em 'Producao' para o refresh token nao expirar.")
+                sys.exit(1)
             if not CLIENT_SECRET.exists():
                 log(f"ERRO: nao encontrei {CLIENT_SECRET.name}. "
                     "Baixe a credencial OAuth do Google Cloud e coloque nesta pasta.")
