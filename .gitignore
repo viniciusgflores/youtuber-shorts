@@ -1,0 +1,25 @@
+# === SEGREDOS — NUNCA versionar ===
+client_secret.json
+token.json
+pexels_key.txt
+*.client_secret.json
+
+# === Mídia gerada (grande) ===
+*.mp4
+*.mp3
+*.mov
+*.wav
+
+# === Pastas de trabalho / saída ===
+videos/
+enviados/
+roteiros_invideo/feitos/
+roteiros/feitos/
+
+# === Temporários, caches e logs ===
+__pycache__/
+*.pyc
+_tmp*/
+_preview.png
+log.txt
+agendador-log.txt
