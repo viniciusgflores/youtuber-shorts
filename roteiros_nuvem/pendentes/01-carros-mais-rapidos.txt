@@ -1,0 +1,15 @@
+titulo: O carro mais rápido do mundo passa de 500 km/h — e é legal dirigir
+descricao: Os carros de rua mais rápidos já feitos pela humanidade. Velocidades que parecem de avião, em máquinas que cabem na garagem. Você dirigiria um desses? 🏎️
+hashtags: carros, supercarro, velocidade, hipercarro, bugatti, koenigsegg, curiosidades, automoveis, motor, voce sabia
+voz: Antonio
+cenas:
+[supercar highway speed] Existe um carro de rua mais rápido que muitos aviões decolando.
+[fast sports car blur] O Bugatti já cruzou a marca dos quatrocentos e noventa por hora.
+[black supercar driving] A Koenigsegg promete passar dos quinhentos.
+[luxury car engine] Tudo isso saindo de um motor que cabe na garagem.
+[speedometer high speed] Nessa velocidade, você cruza um campo de futebol em menos de um segundo.
+[supercar tunnel lights] Os pneus são trocados a cada poucos minutos de uso extremo.
+[expensive sports car] Cada um desses custa mais que uma casa de luxo.
+[race track car] A maioria nunca atinge a velocidade máxima nas ruas.
+[car driving sunset road] É engenharia levada ao limite do possível.
+[person driving fast car] Você teria coragem de pilotar um desses?

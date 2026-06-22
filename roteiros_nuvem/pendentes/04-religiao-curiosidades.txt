@@ -1,0 +1,15 @@
+titulo: A religião mais antiga do mundo tem mais de 4 mil anos
+descricao: Curiosidades sobre as religiões do mundo, contadas de forma neutra e respeitosa. Crenças, números e histórias que atravessaram milênios. Qual te chamou mais atenção? 🌍
+hashtags: religiao, curiosidades, fe, mundo, cultura, historia, espiritualidade, voce sabia, crencas, humanidade
+voz: Antonio
+cenas:
+[ancient temple sunrise] A religião mais antiga ainda viva já passou dos quatro mil anos.
+[world map old] É o hinduísmo, com raízes mais antigas que a própria escrita de muitos povos.
+[buddhist temple statue] O budismo nasceu da busca de um príncipe pelo fim do sofrimento.
+[mosque architecture] O islã é a fé que mais cresce no mundo hoje.
+[old church cathedral] O cristianismo é a religião com mais seguidores no planeta.
+[synagogue interior] O judaísmo influenciou as três grandes fés do Ocidente.
+[meditation peaceful nature] Bilhões de pessoas seguem alguma crença espiritual.
+[ancient ruins history] Muitas religiões antigas já desapareceram com o tempo.
+[diverse people together] A fé moldou culturas, leis e civilizações inteiras.
+[person looking sky] Qual dessas curiosidades te chamou mais atenção?

@@ -1,0 +1,15 @@
+titulo: Você está enchendo o tanque na hora errada a vida inteira
+descricao: Mitos e verdades sobre carros que quase todo motorista acredita. Alguns vão mudar como você dirige a partir de hoje. Qual desses você ainda fazia? ⛽
+hashtags: carros, mitos, dicas, automoveis, motorista, curiosidades, manutencao, combustivel, voce sabia, motor
+voz: Antonio
+cenas:
+[gas station fuel pump] Você provavelmente enche o tanque na hora errada e perde dinheiro.
+[car warming up engine] Esquentar o motor parado por minutos só desperdiça gasolina.
+[car tire close up] Calibrar o pneu frio dá a leitura correta da pressão.
+[car air conditioner] Andar com vidro aberto na estrada gasta mais que o ar-condicionado.
+[red car speeding] A cor do carro não muda o valor do seguro como dizem.
+[car neutral gear] Descer ladeira em ponto morto é perigoso e não economiza.
+[car dashboard fuel light] Andar com a luz da reserva acesa pode danificar a bomba.
+[premium gasoline pump] Gasolina aditivada nem sempre faz diferença no seu motor.
+[mechanic checking car] A revisão no prazo custa menos que o conserto depois.
+[person driving thinking] Qual desses mitos você ainda acreditava?

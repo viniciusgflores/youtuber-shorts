@@ -1,0 +1,15 @@
+titulo: A Bíblia foi escrita em 3 continentes diferentes — você sabia?
+descricao: Fatos sobre a Bíblia que dificilmente te contaram. Da língua original aos números que se repetem em toda a obra. Qual te deixou de queixo caído? ✨
+hashtags: biblia, curiosidades, religiao, fe, cristianismo, historia, voce sabia, biblia sagrada, aprender, cultura
+voz: Antonio
+cenas:
+[ancient hebrew text] Pouca gente sabe: a Bíblia não foi escrita em um só idioma.
+[world map continents] Foram três línguas e três continentes diferentes.
+[number seven concept] O número sete aparece centenas de vezes na obra.
+[old scroll parchment] Alguns trechos foram escritos em rolos de couro e papiro.
+[scribe writing manuscript] Os copistas contavam letra por letra para não errar.
+[open bible pages] O Salmo cento e dezoito traz o versículo central de toda a Bíblia.
+[desert ancient ruins] Muitas cidades citadas foram confirmadas pela arqueologia.
+[library old books] É o livro mais vendido de todos os tempos, sem comparação.
+[candle light prayer] Cada detalhe foi preservado por milhares de anos.
+[hands holding bible] Qual desses fatos mais te surpreendeu?

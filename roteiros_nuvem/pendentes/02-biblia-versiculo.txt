@@ -1,0 +1,15 @@
+titulo: O menor versículo da Bíblia tem só 2 palavras — você sabe qual é?
+descricao: A Bíblia guarda recordes que quase ninguém conhece: o livro mais traduzido da história, escrito ao longo de 15 séculos por dezenas de autores. Qual curiosidade te surpreendeu mais? 📖
+hashtags: biblia, curiosidades, religiao, fe, cristianismo, historia, voce sabia, biblia sagrada, aprender, cultura
+voz: Antonio
+cenas:
+[open holy bible book] Nenhum livro na história foi traduzido tantas vezes quanto este.
+[world map vintage] Já passou de três mil idiomas diferentes.
+[ancient manuscript writing] Foram cerca de quarenta autores ao longo de mil e quinhentos anos.
+[stack of old books] Ela reúne sessenta e seis livros numa obra só.
+[person reading bible] E o menor versículo diz apenas: Jesus chorou.
+[gutenberg printing press] Foi o primeiro livro impresso por Gutenberg.
+[dead sea israel landscape] Os manuscritos do Mar Morto confirmaram textos com mais de dois mil anos.
+[starry night sky] Matusalém teria vivido novecentos e sessenta e nove anos.
+[candle church dark] Salmos é o livro mais longo de toda a Bíblia.
+[praying hands silhouette] Qual dessas curiosidades te surpreendeu mais?

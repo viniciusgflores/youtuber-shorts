@@ -50,7 +50,14 @@ CLIENT_SECRET = BASE / "client_secret.json"
 TOKEN = BASE / "token.json"
 
 SCOPES = ["https://www.googleapis.com/auth/youtube.upload",
-          "https://www.googleapis.com/auth/youtube"]
+          "https://www.googleapis.com/auth/youtube",
+          # force-ssl: necessario para POSTAR comentario apos o upload.
+          # (Fixar comentario NAO existe na API -> e manual, 1 clique.)
+          "https://www.googleapis.com/auth/youtube.force-ssl"]
+
+# Comentario postado automaticamente apos cada upload, para puxar engajamento.
+# Pode ser sobrescrito por video com a chave "comentario:" no .txt de metadados.
+COMENTARIO_PADRAO = "Qual dessas te surpreendeu mais? 👇 Comenta aqui!"
 
 EXTENSOES_VIDEO = {".mp4", ".mov", ".avi", ".mkv", ".wmv", ".flv", ".webm", ".m4v"}
 EXTENSOES_THUMB = [".jpg", ".jpeg", ".png"]
@@ -104,6 +111,7 @@ def ler_metadados(arquivo_txt, nome_padrao):
         "privacidade": "private",
         "categoria": "22",
         "publicar_em": None,
+        "comentario": COMENTARIO_PADRAO,
     }
     if not arquivo_txt.exists():
         return meta
@@ -111,7 +119,7 @@ def ler_metadados(arquivo_txt, nome_padrao):
     conteudo = arquivo_txt.read_text(encoding="utf-8")
     linhas = conteudo.splitlines()
 
-    chaves_simples = {"titulo", "tags", "privacidade", "categoria", "publicar_em"}
+    chaves_simples = {"titulo", "tags", "privacidade", "categoria", "publicar_em", "comentario"}
     i = 0
     while i < len(linhas):
         linha = linhas[i]
@@ -215,6 +223,26 @@ def enviar_video(youtube, video_path, meta):
     return video_id
 
 
+def postar_comentario(youtube, video_id, texto):
+    """Posta um comentario (como o canal) no video recem-enviado.
+    Fixar nao e possivel via API: faca isso manualmente no YouTube Studio."""
+    texto = (texto or "").strip()
+    if not texto:
+        return
+    try:
+        youtube.commentThreads().insert(
+            part="snippet",
+            body={"snippet": {
+                "videoId": video_id,
+                "topLevelComment": {"snippet": {"textOriginal": texto}},
+            }},
+        ).execute()
+        log(f"  Comentario postado. (Fixe manualmente no Studio para destacar.)")
+    except HttpError as e:
+        log(f"  AVISO: nao foi possivel comentar ({e}). "
+            "Video em 'private'/agendado nao aceita comentario ate publicar.")
+
+
 def mover_para_enviados(video_path, txt_path, thumb_path):
     PASTA_ENVIADOS.mkdir(exist_ok=True)
     for p in [video_path, txt_path, thumb_path]:
@@ -247,7 +275,8 @@ def main():
         meta = ler_metadados(txt, nome_padrao=video.stem)
         thumb = encontrar_thumbnail(video)
         try:
-            enviar_video(youtube, video, meta)
+            video_id = enviar_video(youtube, video, meta)
+            postar_comentario(youtube, video_id, meta.get("comentario"))
             mover_para_enviados(video, txt, thumb)
             enviados += 1
         except HttpError as e:

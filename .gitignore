@@ -1,6 +1,7 @@
 # === SEGREDOS — NUNCA versionar ===
 client_secret.json
 token.json
+token.json.*
 pexels_key.txt
 *.client_secret.json
 
