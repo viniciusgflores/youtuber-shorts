@@ -3,7 +3,7 @@ name: Publicar Short diario
 # Roda na nuvem do GitHub (sem PC ligado). 1 Short por execucao.
 on:
   schedule:
-    - cron: "0 20 * * *"   # 20:00 UTC = 17:00 horario de Brasilia (horario de pico)
+    - cron: "7 20 * * *"   # 20:07 UTC ~= 17h BRT (fora do minuto cheio p/ evitar drop do GitHub)
   workflow_dispatch: {}     # permite rodar manualmente pelo botao "Run workflow"
 
 permissions:
