@@ -78,4 +78,6 @@ jobs:
           git mv "roteiros_nuvem/pendentes/${{ steps.gen.outputs.nome }}" "roteiros_nuvem/publicados/${{ steps.gen.outputs.nome }}"
           git add -A
           git commit -m "Publicado na nuvem: ${{ steps.gen.outputs.nome }} [skip ci]" || echo "nada a commitar"
+          # pull --rebase antes do push: evita rejeicao se o remoto andou durante o run
+          git pull --rebase origin main || true
           git push
