@@ -1,7 +1,7 @@
 titulo: A Bíblia foi escrita em 3 continentes diferentes — você sabia?
 descricao: Fatos sobre a Bíblia que dificilmente te contaram. Da língua original aos números que se repetem em toda a obra. Qual te deixou de queixo caído? ✨
 hashtags: biblia, curiosidades, religiao, fe, cristianismo, historia, voce sabia, biblia sagrada, aprender, cultura
-voz: Antonio
+voz: Thalita
 cenas:
 [ancient hebrew text] Pouca gente sabe: a Bíblia não foi escrita em um só idioma.
 [world map continents] Foram três línguas e três continentes diferentes.

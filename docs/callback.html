@@ -31,9 +31,15 @@
     var box = document.getElementById('code');
     var msg = document.getElementById('msg');
     if (code) {
-      msg.innerHTML = '<span class="ok">Autorizado!</span> Copie o código abaixo e cole no terminal / envie para o assistente:';
+      msg.innerHTML = '<span class="ok">Autorizado!</span> Copie o código abaixo (para o terminal) ou volte para o app:';
       box.textContent = code;
       document.getElementById('copy').style.display = 'inline-block';
+      // Botao para voltar ao painel local (demo web) levando o codigo
+      var volta = document.createElement('a');
+      volta.href = 'http://localhost:5000/token?code=' + encodeURIComponent(code);
+      volta.textContent = 'Voltar para o app →';
+      volta.style.cssText = 'display:inline-block;margin-left:10px;font-size:1rem;padding:10px 18px;border-radius:8px;background:#FE2C55;color:#fff;text-decoration:none;';
+      document.getElementById('copy').after(volta);
     } else {
       msg.innerHTML = '<span class="err">Não recebi o código.</span> ' + (err ? ('Erro: ' + err) : '');
     }

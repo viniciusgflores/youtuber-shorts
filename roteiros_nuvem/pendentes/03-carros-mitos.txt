@@ -1,7 +1,7 @@
 titulo: Você está enchendo o tanque na hora errada a vida inteira
 descricao: Mitos e verdades sobre carros que quase todo motorista acredita. Alguns vão mudar como você dirige a partir de hoje. Qual desses você ainda fazia? ⛽
 hashtags: carros, mitos, dicas, automoveis, motorista, curiosidades, manutencao, combustivel, voce sabia, motor
-voz: Antonio
+voz: Thalita
 cenas:
 [gas station fuel pump] Você provavelmente enche o tanque na hora errada e perde dinheiro.
 [car warming up engine] Esquentar o motor parado por minutos só desperdiça gasolina.
