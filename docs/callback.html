@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Autorização TikTok — código</title>
+  <style>
+    body { font-family: -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+           max-width: 640px; margin: 60px auto; padding: 0 20px; line-height: 1.6;
+           color: #1a1a1a; text-align: center; }
+    h1 { font-size: 1.4rem; }
+    #code { font-family: ui-monospace, Consolas, monospace; font-size: 1rem;
+            background: #f2f2f2; padding: 14px; border-radius: 8px; word-break: break-all;
+            margin: 18px 0; }
+    button { font-size: 1rem; padding: 10px 18px; border: 0; border-radius: 8px;
+             background: #0a58ca; color: #fff; cursor: pointer; }
+    .ok { color: #2E7D32; font-weight: bold; }
+    .err { color: #C62828; font-weight: bold; }
+  </style>
+</head>
+<body>
+  <h1>Autorização do TikTok</h1>
+  <p id="msg">Lendo o código...</p>
+  <div id="code"></div>
+  <button id="copy" style="display:none" onclick="copiar()">Copiar código</button>
+  <p id="status"></p>
+  <script>
+    var p = new URLSearchParams(window.location.search);
+    var code = p.get('code');
+    var err = p.get('error');
+    var box = document.getElementById('code');
+    var msg = document.getElementById('msg');
+    if (code) {
+      msg.innerHTML = '<span class="ok">Autorizado!</span> Copie o código abaixo e cole no terminal / envie para o assistente:';
+      box.textContent = code;
+      document.getElementById('copy').style.display = 'inline-block';
+    } else {
+      msg.innerHTML = '<span class="err">Não recebi o código.</span> ' + (err ? ('Erro: ' + err) : '');
+    }
+    function copiar() {
+      navigator.clipboard.writeText(code).then(function () {
+        document.getElementById('status').textContent = 'Copiado!';
+      });
+    }
+  </script>
+</body>
+</html>
