@@ -4,6 +4,9 @@ token.json
 token.json.*
 pexels_key.txt
 *.client_secret.json
+tiktok_token.json
+tiktok_token.json.*
+tiktok_client.json
 
 # === Mídia gerada (grande) ===
 *.mp4

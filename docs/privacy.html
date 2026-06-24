@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Política de Privacidade</title>
+  <style>
+    body { font-family: -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+           max-width: 760px; margin: 40px auto; padding: 0 20px; line-height: 1.6; color: #1a1a1a; }
+    h1 { font-size: 1.7rem; }
+    h2 { font-size: 1.15rem; margin-top: 2rem; }
+    code { background: #f2f2f2; padding: 1px 5px; border-radius: 4px; }
+    footer { margin-top: 3rem; font-size: .85rem; color: #666; border-top: 1px solid #eee; padding-top: 1rem; }
+  </style>
+</head>
+<body>
+  <h1>Política de Privacidade</h1>
+  <p><strong>Última atualização:</strong> 23 de junho de 2026</p>
+
+  <p>Este aplicativo é uma ferramenta pessoal de automação criada para publicar vídeos
+  curtos (formato vertical) na conta de TikTok do próprio operador da ferramenta.
+  Ele não é oferecido a terceiros e não coleta dados de usuários externos.</p>
+
+  <h2>1. Quais dados acessamos</h2>
+  <p>Por meio das APIs oficiais do TikTok (Login Kit e Content Posting API), o aplicativo
+  acessa apenas o necessário para publicar vídeos na conta autorizada:</p>
+  <ul>
+    <li>Um <em>token de acesso</em> emitido pelo TikTok após você autorizar o aplicativo.</li>
+    <li>Informações básicas da conta de criador necessárias para a publicação
+        (ex.: opções de privacidade permitidas, retornadas pelo endpoint
+        <code>creator_info</code>).</li>
+    <li>O arquivo de vídeo e seus metadados (título/legenda) que você mesmo gerou e optou por publicar.</li>
+  </ul>
+
+  <h2>2. O que NÃO fazemos</h2>
+  <ul>
+    <li>Não coletamos, vendemos ou compartilhamos dados pessoais com terceiros.</li>
+    <li>Não acessamos mensagens, contatos, lista de seguidores ou conteúdo de outras contas.</li>
+    <li>Não exibimos anúncios nem fazemos rastreamento.</li>
+  </ul>
+
+  <h2>3. Armazenamento e segurança</h2>
+  <p>O token de acesso é armazenado de forma privada (como segredo criptografado no
+  ambiente de automação) e usado exclusivamente para enviar vídeos à conta autorizada.
+  Ele nunca é exposto publicamente. Você pode revogar o acesso a qualquer momento nas
+  configurações de segurança da sua conta TikTok, o que invalida o token imediatamente.</p>
+
+  <h2>4. Retenção de dados</h2>
+  <p>Não mantemos banco de dados de usuários. Os vídeos publicados passam a ser regidos
+  pelos próprios termos e pela política de privacidade do TikTok.</p>
+
+  <h2>5. Serviços de terceiros</h2>
+  <p>A publicação é feita via APIs oficiais do TikTok. O uso do TikTok é regido pela
+  <a href="https://www.tiktok.com/legal/privacy-policy" target="_blank" rel="noopener">Política de Privacidade do TikTok</a>.</p>
+
+  <h2>6. Contato</h2>
+  <p>Dúvidas sobre esta política podem ser enviadas para:
+  <strong>intmercado.claudeai@brandili.com.br</strong>.</p>
+
+  <footer>
+    Esta página é servida via GitHub Pages e existe para atender ao requisito de
+    política de privacidade da auditoria da TikTok Content Posting API.
+  </footer>
+</body>
+</html>
