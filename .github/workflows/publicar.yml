@@ -64,6 +64,15 @@ jobs:
           python gerar_invideo.py "$NOME"
           echo "nome=$NOME" >> "$GITHUB_OUTPUT"
 
+      - name: Guardar o MP4 do dia para o TikTok (download manual)
+        if: steps.gen.outputs.vazio != '1'
+        uses: actions/upload-artifact@v4
+        with:
+          name: tiktok-${{ steps.gen.outputs.nome }}
+          path: videos/*.mp4
+          retention-days: 7
+          if-no-files-found: warn
+
       - name: Publicar no YouTube
         if: steps.gen.outputs.vazio != '1'
         env:
