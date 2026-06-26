@@ -1,0 +1,15 @@
+titulo: Os carros mais caros do mundo custam mais que uma mansão
+descricao: Os carros mais caros já feitos pelo homem. Preços absurdos, edições únicas e detalhes de tirar o fôlego. Qual deles você levaria pra casa? 🏎️
+hashtags: carros, hypercar, luxo, supercarro, curiosidades, automovel, velocidade, voce sabia, bugatti, ferrari
+voz: Thalita
+cenas:
+[luxury sports car showroom] Tem carro que custa mais caro que uma mansão de luxo.
+[bugatti hypercar close up] Alguns hipercarros passam dos cem milhões de reais.
+[car factory handmade] Muitos são feitos à mão, peça por peça.
+[rare classic car auction] Edições únicas se tornam relíquias em leilões.
+[carbon fiber car detail] A fibra de carbono deixa tudo mais leve e mais caro.
+[gold plated car luxury] Já existiu carro coberto de ouro e diamantes.
+[fast car highway speed] A maioria nem pode rodar nas ruas comuns.
+[exclusive garage collection] Bilionários disputam para ter o único exemplar.
+[supercar engine detail] O motor sozinho vale mais que vários carros populares.
+[luxury car keys hand] Qual desses você levaria pra sua garagem?

@@ -1,0 +1,15 @@
+titulo: O carro mais rápido do mundo passa de 490 km/h
+descricao: Os recordes de velocidade mais alucinantes já alcançados por um carro. Números que parecem impossíveis em quatro rodas. Você teria coragem? 🏁
+hashtags: carros, velocidade, recorde, hypercar, curiosidades, automovel, voce sabia, bugatti, koenigsegg, potencia
+voz: Thalita
+cenas:
+[fast car blurred speed road] Imagine um carro mais rápido que muitos aviões na decolagem.
+[speedometer high speed dash] Os mais extremos passam de quatrocentos e noventa por hora.
+[hypercar on test track] Nessa velocidade, cada segundo cobre o tamanho de um campo.
+[car aerodynamics wind tunnel] Um pequeno erro de aerodinâmica seria fatal.
+[racing tires close up] Os pneus são feitos especialmente para não derreter.
+[long straight desert road] Precisam de pistas enormes só para acelerar.
+[driver helmet focused car] Os pilotos treinam meses para esse único momento.
+[engine power supercar detail] O motor entrega potência de um pequeno avião.
+[fast car passing camera] Bater esses recordes custa milhões e muita coragem.
+[person looking fast car] Você teria coragem de pisar fundo nessa máquina?

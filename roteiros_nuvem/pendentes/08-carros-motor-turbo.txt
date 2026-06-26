@@ -1,0 +1,15 @@
+titulo: Como o turbo faz seu carro voar — explicado em segundos
+descricao: A engenharia por trás do turbo, explicada de um jeito simples. Curiosidades de motor que todo apaixonado por carro deveria saber. Ficou surpreso? 🔧
+hashtags: carros, turbo, motor, engenharia, curiosidades, mecanica, automovel, voce sabia, potencia, performance
+voz: Thalita
+cenas:
+[turbocharger engine close up] O turbo é o truque que faz um motor pequeno virar uma fera.
+[hot exhaust gases engine] Ele usa os gases de escape que iriam pro nada.
+[turbine spinning fast metal] Esses gases giram uma turbina a milhares de rotações.
+[air intake car engine] A turbina empurra mais ar para dentro do motor.
+[fuel injection engine detail] Mais ar significa mais combustível queimado de uma vez.
+[car accelerating road power] E o resultado é muito mais potência no mesmo motor.
+[engine bay sports car] Por isso carros turbo parecem brigar acima do peso.
+[temperature gauge engine heat] O lado ruim é o calor extremo que ele gera.
+[intercooler car part] Por isso existe o intercooler, pra esfriar esse ar.
+[fast car driving sunset] Agora você sabe o segredo escondido embaixo do capô.

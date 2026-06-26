@@ -1,0 +1,15 @@
+titulo: Carros elétricos: 8 curiosidades que vão te surpreender
+descricao: O que quase ninguém te conta sobre os carros elétricos. Velocidade, silêncio e fatos que mudam tudo o que você pensava. Qual te pegou de surpresa? ⚡
+hashtags: carros, carroeletrico, tesla, tecnologia, curiosidades, futuro, automovel, voce sabia, sustentavel, inovacao
+voz: Thalita
+cenas:
+[electric car charging station] O carro elétrico não é uma invenção nova como parece.
+[vintage old electric car] Os primeiros surgiram há mais de cem anos.
+[electric car silent road] Eles são tão silenciosos que precisam emitir som artificial.
+[car accelerating fast city] E aceleram mais rápido que muitos esportivos a gasolina.
+[electric motor engine detail] O motor tem pouquíssimas peças que se desgastam.
+[car battery technology] A bateria é a parte mais cara e mais pesada.
+[regenerative braking car] Ao frear, o carro recarrega a própria energia.
+[charging cable plug car] Dá pra carregar em casa, como um celular gigante.
+[future city electric cars] Em muitos países eles já dominam as vendas.
+[person driving electric car] Qual dessas curiosidades te surpreendeu mais?

@@ -1,0 +1,15 @@
+titulo: O significado escondido nos logos das marcas de carro
+descricao: Você dirige todo dia e nunca reparou. O significado secreto por trás dos logos das marcas de carro mais famosas. Qual você não sabia? 🚗
+hashtags: carros, logos, marcas, curiosidades, design, automovel, voce sabia, bmw, ferrari, historia
+voz: Thalita
+cenas:
+[car brand logos collection] Você vê esses símbolos todo dia e nunca reparou.
+[bmw logo close up] O círculo azul e branco da BMW lembra uma hélice de avião.
+[ferrari logo prancing horse] O cavalo da Ferrari foi homenagem a um piloto de guerra.
+[mercedes star logo] A estrela da Mercedes representa domínio na terra, mar e ar.
+[audi rings logo] Os quatro anéis da Audi são quatro empresas que se uniram.
+[volkswagen logo detail] O VW é simplesmente as iniciais de carro do povo.
+[lamborghini bull logo] O touro da Lamborghini veio do signo do fundador.
+[car emblem shiny metal] Cada detalhe esconde uma história de décadas.
+[luxury car front grille] Marcas valem bilhões só pelo símbolo.
+[person looking car logo] Qual desses significados você não conhecia?
